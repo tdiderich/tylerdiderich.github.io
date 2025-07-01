@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.links {
+  list-style: none;
+  padding: 0;
+}
+.links li {
+  margin: 1rem 0;
+}
+.links a {
+  font-size: 1.25rem;
+  color: #3366cc;
+  text-decoration: none;
+}
+.links a:hover {
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  color: #666;
+}
